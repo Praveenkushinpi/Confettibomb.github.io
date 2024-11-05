@@ -4,6 +4,8 @@ body {
   display: flex;
   align-items: left:50px;
   justify-content: center;
+  background-repeat:no-repeat;
+  background-size:cover
 }
 
 .fire-btn {
